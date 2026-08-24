@@ -1,2 +1,4 @@
-ID, descrição , Ator
-RF01, fazer tal coisa , sistema
+ID, Nome , Ator
+RF01, cadastro dos usuarios(nome / endereço / telefone / email) , secretária
+RF02, cadastro das obras(titulo / ISBN / quantidade de paginas / ano / edição / autores / editora) , bibliotecaria
+
