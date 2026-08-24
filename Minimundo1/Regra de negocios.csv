@@ -1,7 +1,7 @@
 ID, Regra de negocio, Requisito associado
 RN01, o professor só pode bloquear até 7 obras, RF07
-RN02, cada usuário pode pegar até 5 obras simultaneamente,
-RN03, dos exemplares existentes um tem que sempre estar a disposição da biblioteca,
-RN04, se o empréstimo for possivel o comprovante é impresso automaticamente, 
-RN05, o prazo do empréstimo é sempre de uma semana,
-RN06, casa o empréstimo seja estrapolado o usuário será penalizado ficando uma semana sem empréstimo,
+RN02, cada usuário pode pegar até 5 obras simultaneamente,RF09
+RN03, dos exemplares existentes um tem que sempre estar a disposição da biblioteca,RF09
+RN04, se o empréstimo for possivel o comprovante é impresso automaticamente, RF09
+RN05, o prazo do empréstimo é sempre de uma semana,RF10
+RN06, casa o empréstimo seja estrapolado o usuário será penalizado ficando uma semana sem empréstimo,RF09
