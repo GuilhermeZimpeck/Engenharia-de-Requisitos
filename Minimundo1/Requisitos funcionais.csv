@@ -1,9 +1,10 @@
-ID, Nome , Ator,
-RF01, manter os usuarios(nome / endereço / telefone / email) , secretária,
-RF02, manter as obras(titulo / ISBN / quantidade de paginas / ano / edição / autores / editora) , bibliotecaria,
-RF03, consulta das obras, usuario,
-RF04, manter autores, bibliotecaria,
-RF05, manter editoras,bibliotecaria,
+ID, Nome , Ator
+RF01, manter os usuarios(nome / endereço / telefone / email) , secretária
+RF02, manter as obras(titulo / ISBN / quantidade de paginas / ano / edição / autores / editora) , bibliotecaria
+RF03, consulta das obras, usuario
+RF04, manter autores, bibliotecaria
+RF05, manter editoras(nome / cnpj / telefone / endereço / email),bibliotecaria
+
 
 
 
