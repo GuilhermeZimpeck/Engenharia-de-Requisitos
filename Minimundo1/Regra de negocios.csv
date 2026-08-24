@@ -1,3 +1,4 @@
 ID, Regra de negocio, Requisito associado
 RN01, o professor só pode bloquear até 7 obras, RF07
 RN02, cada usuário pode pegar até 5 obras simultaneamente,
+RN03, dos exemplares existentes um tem que sempre estar a disposição da biblioteca,
