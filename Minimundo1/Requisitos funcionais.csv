@@ -6,7 +6,8 @@ RF04, manter autores, bibliotecaria
 RF05, manter editoras(nome / cnpj / telefone / endereço / email), bibliotecaria
 RF06, manter exemplar(numero do exemplar / obra que ele se refere), bibliotecaria
 RF07, funcionalidade de efetuar bloqueio, professor
-
+RF08, registrar devolução do empréstimo, secretaria 
+RF09, registrar empréstimo, secretaria
 
 
 
