@@ -1,3 +1,4 @@
 ID, nome
 RNF01, o sistema deve apresentar resuldado de uma consulta ao acervo em até 2 segundos para até 100 usuarios simultaneos
-RF02, é preciso ter uma integração entre o sistema da biblioteca e da universidade
+RNF02, é preciso ter uma integração entre o sistema da biblioteca e da universidade
+RNF03, o registro do empréstimo de um livro devera ser concluído em no maximo 4 interações após indentificar o usuário 
