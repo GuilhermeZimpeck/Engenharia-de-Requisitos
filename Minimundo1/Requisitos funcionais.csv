@@ -8,6 +8,7 @@ RF06, manter exemplar(numero do exemplar / obra que ele se refere), bibliotecari
 RF07, funcionalidade de efetuar bloqueio, professor
 RF08, registrar devolução do empréstimo, secretaria 
 RF09, registrar empréstimo, secretaria
+RF10, emitir relatório do empréstimo em atraso, secretaria
 
 
 
