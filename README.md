@@ -33,5 +33,5 @@ requisitos funcionais, os requisitos não funcionais, e as regras de negócios d
 
     - Regras de rejeição: regras que rejeitam um evento não permitido
     - Regras de projeção: regras que projetam um evento em outro, alterando o fluxo
-    - Regras de produção: regras que não respondem a eventos, apenas definem informações do negócio 
+    - Regras de produção: regras que não respondem a eventos, apenas definem informações
   ```
