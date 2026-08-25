@@ -1,0 +1,9 @@
+Identificador,	Descrição
+RNF01,	O sistema deverá registrar uma venda em até 2 segundos (considerando até 20 produtos por venda em condições normais de operação)
+RNF02,	A entrega de ingredientes pode não corresponder ao total de ingredientes solicitados fazendo com que novas entregas possam ocorrer
+RNF03,	Qualquer relatório emitido pelo sistema deve ser liberado para o usuário em no máximo 30 segundos após a solicitação
+RNF04,  O sistema deverá realizar backup automático do banco de dados diariamente
+RNF05, 	O sistema deverá  permitir a restauração completa dos dados em até 30 minutos
+RNF06,	O desenvolvimento do sistema deverá utilizar o framework Scrum
+RNF07,  O sistema deverá integrar-se com leitores de código de barras para identificação dos produtos
+
