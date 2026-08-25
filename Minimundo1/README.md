@@ -1,7 +1,9 @@
 <table>
   <tr>
     <td>
-<strong>Minimundo 1</strong>: Biblioteca Escola - A Biblioteca Escola deseja implementar um sistema para gerenciar suas operações, abrangendo empréstimos e aquisição de exemplares. Esse sistema deve ser responsivo e deve estar disponível 99,5% do tempo em que a biblioteca estiver aberta.
+<strong>Minimundo 1: Biblioteca Escola</strong> <br><br>
+    
+A Biblioteca Escola deseja implementar um sistema para gerenciar suas operações, abrangendo empréstimos e aquisição de exemplares. Esse sistema deve ser responsivo e deve estar disponível 99,5% do tempo em que a biblioteca estiver aberta.
 
 O cadastramento dos usuários é de responsabilidade da secretária e deve conter: nome, endereço, telefone e e-mail.
 
