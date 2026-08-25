@@ -1,5 +1,5 @@
 Identificador,	Nome,	Ator
-RF01,	Registro das vendas (data e hora em que ela ocorreu, os produtos que foram vendidos, e qual atendente a registrou),	atendente
+RF01,	Registro das vendas (data e hora em que ela ocorreu os produtos que foram vendidos, e qual atendente a registrou),	atendente
 RF02,	O sistema deverá integrar-se com leitores de código de barras para identificação dos produtos,	sistema
 RF03,	produtos que podem ser comercializados têm o seu cadastro mantido (o nome, a quantidade no estoque, a quantidade mínima que deve ter no estoque e se ele é fabricado pela delicatessen ou comprado.),	gerente de compras
 RF04, Cadastro para os produtos fabricados (os ingredientes com suas respectivas quantidades),	cozinheiro chefe
