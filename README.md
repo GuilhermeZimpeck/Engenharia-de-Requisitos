@@ -14,7 +14,7 @@ requisitos funcionais, os requisitos não funcionais, e as regras de negócios d
   
     - Cadastro: inclui alternativas para incluir, alterar, excluir e consultar (CRUD)
     - Transação: registro de uma ocorrência
-    - relatório: emissão de informações que o software vai oferecer 
+    - Relatório: emissão de informações que o software vai oferecer 
   ```
 - Requisitos não funcionais:
   ```
