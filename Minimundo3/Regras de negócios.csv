@@ -1,3 +1,4 @@
 ID, Regra, Requisito associado
 RN01, Um médico deve ser especializado em pelo menos uma especialidade oferecida, RF03
-RN02, Não pode haver sobreposição nas escalas estabelecidas para um médico em determinado período nem sobreposição nos consultórios definidos para cada escala, RF04
+RN02, Não pode haver sobreposição nas escalas estabelecidas para um médico em determinado período, RF04
+RN03, Não pode sobreposição nos consultórios definidos para cada escala, RF04
