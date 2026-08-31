@@ -1,4 +1,4 @@
 ID, Regra, Requisito associado
-RN01, A numeração dos consultorios deve ser gerada automaticamente e sequencialmente começando pelo numero 1,
-RN02, Um médico deve ser especializado em pelo menos uma especialidade oferecida,
-RN03, Não pode haver sobreposição nas escalas estabelecidas para um médico em determinado período nem sobreposição nos consultórios definidos para cada escala,
+RN01, A numeração dos consultorios deve ser gerada automaticamente e sequencialmente começando pelo numero 1, RF05
+RN02, Um médico deve ser especializado em pelo menos uma especialidade oferecida, RF03
+RN03, Não pode haver sobreposição nas escalas estabelecidas para um médico em determinado período nem sobreposição nos consultórios definidos para cada escala, RF04
