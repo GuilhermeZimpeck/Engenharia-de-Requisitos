@@ -7,6 +7,3 @@ RNF05, 	O sistema deverá  permitir a restauração completa dos dados em até 3
 RNF06,	O desenvolvimento do sistema deverá utilizar o framework Scrum
 RNF07,  O sistema deverá integrar-se com leitores de código de barras para identificação dos produtos
 RNF08,  O prazo maximo é de até 4 meses
-RNF09,  O sistem devera realizar o backup automatico do banco de dados diariamente
-RNF10,  
-
