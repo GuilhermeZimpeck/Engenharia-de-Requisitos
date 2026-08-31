@@ -1,7 +1,8 @@
 <table>
   <tr>
     <td>
-      Minimundo 3 – Clínica ABC
+      <strong>Minimundo 3 – Clínica ABC</strong>
+      
 A clínica ABC está expandindo a sua atuação na cidade do Rio de Janeiro e lhe solicitou o 
 desenvolvimento de um software, com uma interface web, que deverá estar disponível na sua intranet, 
 para controlar os agendamentos e a realização das consultas. 
