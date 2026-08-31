@@ -1,4 +1,4 @@
 ID, Regra de Negócio, Requisito associado
-RN01, a composição dos produtos só pode ser indentidicada para produtos fabricados pela delicatessen,
-RN02,	Envio de notificação para estoquista (deve conter a data e hora em que foi realizado e a quantidade de cada ingrediente necessário),
-RN03, o registro do pedido gera uma baixa no estoque, 
+RN01, a composição dos produtos só pode ser indentidicada para produtos fabricados pela delicatessen, RF03
+RN02,	Envio de notificação para estoquista (deve conter a data e hora em que foi realizado e a quantidade de cada ingrediente necessário), RF07
+RN03, o registro do pedido gera uma baixa no estoque, RF08
