@@ -8,10 +8,10 @@ RF06,	Cadastro valor de venda produto,	gerente de vendas
 RF07,	Registro produtos comprados no estoque,	estoquista
 RF08,	Registro dos ingredientes no estoque,	estoquista
 RF09,	registro do pedido (data e hora da solicitação e a quantidade necessária de cada ingrediente), cozinheiro chefe
-RF10,	Envio de notificação para estoquista (deve conter a data e hora em que foi realizado e a quantidade de cada ingrediente necessário), sistema
+RF10,	Relatório do valor das vendas por produto em determinado período,	Sistema
 RF11,	registro da data e hora da entrega do pedido,	estoquista
 RF12,	Registro da baixa no estoque (data e quantidade entregue), estoquista
 RF13,	Cadastro atendentes (nome CPF endereço telefone e-Mail e data de nascimento), gerente geral
 RF14,	Relatório quantidade de ingredientes entregues ao cozinheiro chefe,	sistema
 RF15,	Relatório dos “n” produtos mais comprados pelos clientes da delicatessen em um determinado período,	Sistema 
-RF16,	Relatório do valor das vendas por produto em determinado período,	Sistema
+
