@@ -4,15 +4,17 @@ RF02, manter os consultórios(número e uma descrição), diretor
 RF03, manter medicos que trabalham na clínica(nome /CPF /CRM /data de nascimento /endereço /telefone /email /especialidades), gerente
 RF04, manter escala de trabalho( data de inicio/ termino /dia da semana /hora inicial /hora final), gerente
 RF05, manter consultorio que será utilizado pelo medico durante cada escala, gerente
-RF06, manter valor de uma consulta( data de vigência ), diretor
+RF06, atualizar valor de uma consulta( data de vigência ), diretor
 RF07, manter paciente (nome CPF data de nascimento endereço telefones e e-mails, atendente 
-RF08, manter consulta (data /hora /médico), atendente
+RF08, agendar consulta (data /hora /médico), atendente
 RF09, manter medicamentos(nome /posologia /indicação), médico
 RF10, manter exames(nome e a indicação), médico
-RF11, emitir medicamentos, médico
-RF12, emitir exames, médico
-RF13, emitir resultados dos exames, médico
+RF11, prescrever medicamentos, médico
+RF12, solicitar exames, médico
+RF13, registras resultados dos exames, médico
 RF14, registrar o pagamento de acordo com o valor vigente na data do agendamento, atendente
 RF15, emitir a relação das consultas realizadas em um determinado período, sistema
 RF16, emitir a relação dos pagamentos realizados em determinado período, sistema
 RF17, emitir a relação da ociosidade de cada médico em determinado período, sistema
+RF18, cancelar uma consulta, atendente
+
