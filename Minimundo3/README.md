@@ -49,6 +49,7 @@ Ao final da consulta o atendente deve registrar o pagamento de acordo com o valo
 agendamento.
 
 O atendente pode cancelar uma consulta desde que o seu horário ainda não tenha sido ultrapassado.
+
 Sempre que solicitado pelo diretor ou pelo gerente o sistema deve fornecer: 
 
 (a) a relação das consultas realizadas em um determinado período; 
