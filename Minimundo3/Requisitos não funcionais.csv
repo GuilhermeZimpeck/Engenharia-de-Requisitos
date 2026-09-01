@@ -1,5 +1,4 @@
 ID, Descrição
 RNF01, o software deve ter uma interface web 
 RNF02, o software deve ficar disponivel na intranet
-RNF03, o atendente pode cancelar uma consulta desde que o seu horário ainda não tenha sido ultrapassado
-RNF04, A numeração dos consultorios deve ser gerada automaticamente e sequencialmente começando pelo numero 1
+RNF03, A numeração dos consultorios deve ser gerada automaticamente e sequencialmente começando pelo numero 1
