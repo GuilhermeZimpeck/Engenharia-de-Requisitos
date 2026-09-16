@@ -215,9 +215,7 @@ Dentro do sistema acadêmico existe um registro se um aluno é PCD ou não.
 
 Nem todas as vans são adaptadas, então existirá um filtro se uma van é adaptada ou não e o aluno poderá consultar isso
 
-Aluno atendido pelo NAPNI que precisa de suporte para utilizar do serviço poderá acessar esse serviço junto com o seu acompanhante (o 
-
-acompanhante não tem registro porém conta como passageiro)
+Aluno atendido pelo NAPNI que precisa de suporte para utilizar do serviço poderá acessar esse serviço junto com o seu acompanhante (o acompanhante não tem registro porém conta como passageiro)
 
 Quem precisa de suporte tem prioridade de acesso ao serviço
 
