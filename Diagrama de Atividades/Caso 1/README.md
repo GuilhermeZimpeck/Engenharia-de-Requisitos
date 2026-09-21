@@ -1,7 +1,6 @@
 <table>
   <tr>
-    <td>
-      <h1>Estudo de caso 1</h1>
+    <td><h1>Estudo de caso 1</h1>
 
 O gerente de TI solicita a um consultor um projeto para ampliação da rede de computadores.
 
