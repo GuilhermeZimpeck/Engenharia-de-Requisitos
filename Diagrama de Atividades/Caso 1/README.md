@@ -14,3 +14,7 @@ O gerente de TI avalia o estudo elaborado pelo setor de manutenção. Caso o est
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="Diagrama de Atividades/Caso 1/Estudo de caso 1.png" alt="Demonstração do App" width="600">
+</div>
