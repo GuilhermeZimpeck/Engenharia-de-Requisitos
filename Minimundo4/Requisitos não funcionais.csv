@@ -1,7 +1,7 @@
-ID ; Descrição ;
-RNF01 ; O software será um site ;
-RNF02 ; Deve carregar completamente em até 3 segundos em conexões de 10 Mbps ;
-RNF03 ; Deve suportar até 500 acessos simultâneos sem perda perceptível de desempenho ;
-RNF04 ; O sistema deve implementar autenticação com confirmação por e-mail para novos cadastros ;
-RNF05 ; O cliente deverá poder acessar o site de diferentes dispositivos ;
-RNF06 ; É imprescindível que o site seja responsivo e que funcione nos principais navegadores (Chrome/Firefox/Edge/Safari) ;
+ID , Descrição ,
+RNF01 , O software será um site ,
+RNF02 , Deve carregar completamente em até 3 segundos em conexões de 10 Mbps ,
+RNF03 , Deve suportar até 500 acessos simultâneos sem perda perceptível de desempenho ,
+RNF04 , O sistema deve implementar autenticação com confirmação por e-mail para novos cadastros ,
+RNF05 , O cliente deverá poder acessar o site de diferentes dispositivos ,
+RNF06 , É imprescindível que o site seja responsivo e que funcione nos principais navegadores (Chrome/Firefox/Edge/Safari) ,
