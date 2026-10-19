@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-Suponha que você tenha sido contratado para desenvolver um site, que deve carregar completamente em até 3 segundos em conexões de 10 Mbps e suportar até 500 acessos simultâneos sem perda perceptível de desempenho, para uma locadora de equipamentos de mergulho. Em conversa com a gerente você obteve o seguinte relato. 
+Suponha que você tenha sido contratado para desenvolver um site, que deve carregar completamente em até 3 segundos em conexões de 10 Mbps e suportar até 500 acessos simultâneos sem perda perceptível de desempenho, para uma locadora de equipamentos de mergulho. Em conversa com a gerente você obteve o seguinte relato.<br><br>
 
 A locadora possui várias lojas, que devem ser mantidas pela direção da locadora. De cada loja é preciso conhecer: o nome, endereço completo, e-mail, CNPJ e telefones. 
 
